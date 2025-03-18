@@ -1,0 +1,38 @@
+.banner {
+  background-color: aqua;
+  padding-left: 10px;
+}
+
+/*
+* {
+  border: 1px solid red !important;
+}*/
+
+.plane-showcase {
+  margin: 20px auto;
+  padding: 10px;
+  background-color: lightsteelblue;
+  width: 400px;
+  height: 400px;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.plane-showcase .title {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+
+.plane-showcase img {
+  margin: 0 auto;
+  display: block;
+}
+
+.plane-showcase p {
+  margin: 10px 20px;
+}
+
+.plane-showcase button {
+  margin: 20px auto;
+  display: block;
+}
